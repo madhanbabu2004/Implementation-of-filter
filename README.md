@@ -82,9 +82,9 @@ cv2.destroyAllWindows()
 Original image
 ![output](./a.png)
 i) Using Averaging Filter
-![output](./b.png)
-ii) Using Weighted Averaging Filter
 ![output](./c.png)
+ii) Using Weighted Averaging Filter
+![output](./b.png)
 iii) Using Gaussian Filter
 ![output](./d.png)
 iv) Using Median Filter
